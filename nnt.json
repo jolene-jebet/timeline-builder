@@ -1,0 +1,162 @@
+{
+	"title": {
+		"media": {
+			"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Colored_neural_network.svg/1200px-Colored_neural_network.svg.png",
+			"caption": "Visualization of an artificial neural network",
+			"credit": "Wikimedia Commons"
+		},
+		"text": {
+			"headline": "Neural Networks<br/> 1943 - 1969",
+			"text": "<p>The birth and early development of neural networks - from the first mathematical models of neurons to sophisticated learning algorithms. This timeline chronicles the explosive innovation that led to the first AI Winter, when Minsky and Papert's critique temporarily halted neural network research for nearly two decades.</p>"
+		}
+	},
+	"events": [
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Walter_Pitts.jpg",
+				"caption": "Warren McCulloch and Walter Pitts created the first mathematical model of neural networks",
+				"credit": "Wikimedia Commons"
+			},
+			"start_date": {
+				"year": "1943"
+			},
+			"text": {
+				"headline": "McCulloch & Pitts: The Foundation",
+				"text": "<p>Warren McCulloch and Walter Pitts published 'A Logical Calculus of Ideas Immanent in Nervous Activity,' creating the first mathematical model of a neural network. They showed that networks of simple binary neurons could compute any logical function, laying the theoretical foundation for artificial neural networks.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Donald_Hebb.gif/220px-Donald_Hebb.gif",
+				"caption": "Donald Hebb's learning rule became fundamental to neural network training",
+				"credit": "Wikimedia Commons"
+			},
+			"start_date": {
+				"year": "1949"
+			},
+			"text": {
+				"headline": "Hebbian Learning: 'Cells That Fire Together, Wire Together'",
+				"text": "<p>Canadian psychologist Donald Hebb published 'The Organization of Behavior,' proposing that synaptic connections strengthen when neurons fire simultaneously. This principle - 'Hebbian plasticity' - became one of the fundamental learning mechanisms in neural networks, describing how networks could learn from experience.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/en/5/52/Frank_Rosenblatt.jpg",
+				"caption": "Frank Rosenblatt with the Mark I Perceptron machine",
+				"credit": "Wikimedia Commons"
+			},
+			"start_date": {
+				"year": "1957"
+			},
+			"text": {
+				"headline": "The Perceptron: Theory Becomes Hardware",
+				"text": "<p>Psychologist Frank Rosenblatt at Cornell University developed the Perceptron, the first neural network implemented in hardware. The Mark I Perceptron could learn to classify patterns using adjustable weights. The New York Times reported Rosenblatt's prediction that perceptrons would one day 'recognize people and call out their names' and 'instantly translate speech in one language to another.'</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumericaDLR.jpg/1200px-NumericaDLR.jpg",
+				"caption": "Bernard Widrow's ADALINE could solve real-world engineering problems",
+				"credit": "Wikimedia Commons"
+			},
+			"start_date": {
+				"year": "1959"
+			},
+			"text": {
+				"headline": "ADALINE: Practical Applications",
+				"text": "<p>Bernard Widrow and Marcian Hoff at Stanford developed ADALINE (Adaptive Linear Neuron), which used the 'delta rule' for training. ADALINE was successfully applied to real-world problems including echo cancellation in telephone lines, demonstrating that neural networks could solve practical engineering challenges.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "1962"
+			},
+			"text": {
+				"headline": "Rosenblatt's 'Principles of Neurodynamics'",
+				"text": "<p>Frank Rosenblatt published 'Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms,' a comprehensive exploration of perceptron theory. The book described various perceptron architectures including multilayer systems and feedback loops - designs that would prove crucial decades later.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/David_H._Hubel_%281995%29.jpg/220px-David_H._Hubel_%281995%29.jpg",
+				"caption": "Hubel and Wiesel's work on visual processing inspired convolutional neural networks",
+				"credit": "Wikimedia Commons"
+			},
+			"start_date": {
+				"year": "1962"
+			},
+			"text": {
+				"headline": "Hubel & Wiesel: Visual Cortex Architecture",
+				"text": "<p>Neurophysiologists David Hubel and Torsten Wiesel discovered how the mammalian visual cortex processes information through hierarchical layers of neurons, with simple cells detecting edges and complex cells detecting patterns. Their work (which later won the Nobel Prize) would inspire convolutional neural networks in computer vision.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "1965"
+			},
+			"text": {
+				"headline": "Ivakhnenko & Lapa: The First Deep Learning",
+				"text": "<p>Soviet researchers Alexey Ivakhnenko and Valentin Lapa published the Group Method of Data Handling (GMDH), creating the first algorithm capable of training deep multilayer neural networks with many layers. By 1971, they had successfully trained an eight-layer network - a remarkable achievement that would not be matched in the West for decades.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "1967"
+			},
+			"text": {
+				"headline": "Amari: Stochastic Gradient Descent",
+				"text": "<p>Japanese researcher Shun'ichi Amari published the first multilayer perceptron trained using stochastic gradient descent. In experiments conducted by his student Saito, a five-layer network with two learnable layers successfully learned internal representations to classify non-linearly separable patterns - solving exactly the type of problem that would later be declared impossible for perceptrons.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Marvin_Minsky_at_OLPCb.jpg/220px-Marvin_Minsky_at_OLPCb.jpg",
+				"caption": "Marvin Minsky and Seymour Papert's critique triggered the first AI Winter",
+				"credit": "Wikimedia Commons"
+			},
+			"start_date": {
+				"year": "1969"
+			},
+			"text": {
+				"headline": "Perceptrons: The Book That Stopped Progress",
+				"text": "<p>Marvin Minsky and Seymour Papert published 'Perceptrons: An Introduction to Computational Geometry,' a rigorous mathematical analysis showing that single-layer perceptrons could not solve problems like XOR or distinguish connected from disconnected shapes. Though their analysis was technically correct for single-layer networks, the book's influence caused research funding for neural networks to collapse, triggering the first AI Winter that would last until the mid-1980s.</p>"
+			}
+		},
+		{
+			"media": {
+				"url": "",
+				"caption": "",
+				"credit": ""
+			},
+			"start_date": {
+				"year": "1970",
+				"month": "1",
+				"day": "1"
+			},
+			"end_date": {
+				"year": "1985",
+				"month": "12",
+				"day": "31"
+			},
+			"text": {
+				"headline": "The First AI Winter",
+				"text": "<p>Following Minsky and Papert's critique, neural network research funding dried up almost completely. The field entered what became known as the 'AI Winter' - a period of reduced interest, skepticism, and minimal progress. Ironically, solutions to the problems Minsky and Papert identified (multilayer networks with backpropagation) had already been partially developed by Ivakhnenko and Amari, but their work remained largely unknown in the West. The field would not revive until the mid-1980s.</p>"
+			}
+		}
+	]
+}
